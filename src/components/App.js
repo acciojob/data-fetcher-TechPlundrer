@@ -33,7 +33,7 @@ const App = () => {
       return <div>No data found</div>;
      }
 
-
+<div></div>
 
   return (
     <div>
